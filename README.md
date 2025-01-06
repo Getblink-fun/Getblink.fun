@@ -60,14 +60,14 @@ MONGODB_URI=MONGODB-URI
 
 #### Commands
 
-Start the web app:
-```bash
-npm run dev
-```
-
 Build the web app:
 ```bash
 npm run build
+```
+
+Start the web app:
+```bash
+npm run dev
 ```
 
 ## **Conclusion**
