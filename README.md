@@ -16,8 +16,10 @@ To start viewing blinks on your 𝕏 timeline:
    - Open your wallet extension.  
    - Go to **Settings** > **Experimental Features**.  
    - Activate **Solana Actions on 𝕏** to allow your wallet to interact with blockchain links on the platform.
-   - Refresh the page.
-  
+   - Refresh the page, your timeline should will look like the image below:
+     
+  ![blink](https://github.com/user-attachments/assets/4e3db4bb-6c8b-46bc-b409-1f468d2d8dd3)
+
 Here is video tutorial explaining this:  [Watch the video](https://youtu.be/XMuj69S4e2w?si=x_wmR01q7Iyy2Vpx)
 
 ## Why GetBlinks.fun
