@@ -44,13 +44,13 @@ This project is generated with the [create-solana-dapp](https://github.com/solan
 ### Installation
 
 #### Clone the repo
-```shell
+```bash
 git clone <repo-url>
 cd <repo-name>
 ```
 
 #### Install Dependencies
-```shell
+```bash
 npm install
 ```
 
@@ -63,12 +63,12 @@ MONGODB_URI=MONGODB-URI
 #### Commands
 
 Start the web app:
-```shell
+```bash
 npm run dev
 ```
 
 Build the web app:
-```shell
+```bash
 npm run build
 ```
 
