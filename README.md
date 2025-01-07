@@ -1,6 +1,6 @@
-# GetBlinks.fun
+# GetBlink.fun
 
-[GetBlinks.fun](https://www.getblink.fun/) is a no-code platform designed to simplify the process of creating and sharing Solana Blinks directly on social media platforms. 
+[GetBlink.fun](https://www.getblink.fun/) is a no-code platform designed to simplify the process of creating and sharing Solana Blinks directly on social media platforms. 
 
 [Blinks](https://solana.com/docs/advanced/actions) simply means Blockchain Links and they are unique, shareable links that enable blockchain interactions seamlessly on Social media platforms. Currently, Blinks are supported exclusively on 𝕏 (formerly Twitter) and work only on desktop screens. However, future updates may bring support for additional platforms and screen sizes.
 
